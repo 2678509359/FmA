@@ -173,8 +173,5 @@ def verify_integrity(source, result):
 | **macOS**   | .dmg 映像   | macOS 10.14+  |
 | **Linux**   | .deb/.rpm   | Ubuntu 18.04+ |
 
-### 获取途径
+<img width="1593" height="1447" alt="屏幕截图 2025-07-16 172001" src="https://github.com/user-attachments/assets/faccd05a-c0f8-429f-960d-7988c9f46cba" />
 
-1. [GitHub Release页面](https://github.com/fma-team/releases)
-
-![image-20250716172042353](C:\Users\zhang\AppData\Roaming\Typora\typora-user-images\image-20250716172042353.png)
